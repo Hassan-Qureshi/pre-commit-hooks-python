@@ -4,11 +4,8 @@ def greetings(name: str) -> str:
 
 def main():
     for names in ["Ali", "Bob", "Cindy"]:
-        greetings(names)
+         greetings(names)
 
 
 if __name__ == "__main__":
     main()
-
-    
-
